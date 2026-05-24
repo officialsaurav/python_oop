@@ -1,0 +1,47 @@
+LAB 2: Encapsulation, Polymorphism, Abstraction
+● Task -1: Encapsulation
+a. Create a class ‘Developer’ with private, public and protected
+members. Create an object of that class and try to access each
+member through that object. Explain the outcome
+b. Create an object of class Account with one private, one
+protected and instance methods. Manipulate both private and
+protected methods inside the instance methods
+c. Implement getter and setter methods using the normal function
+and using property decorator.
+
+
+● Task - 2: Polymorphism
+a. Showcase method overloading in Python using default
+arguments.
+b. Create a base class and child class that showcase the method
+overriding in Python.
+c. Create a Python class named Point that accepts x and y
+coordinates. Program it so that it mathematically adds the
+coordinates together.
+d. Create a base class Shape with methods area() and
+perimeter() (initially without implementation) in the base class
+then define two subclasses Rectangle and Circle that initialize
+their respective dimensions and override these methods to
+compute area and perimeter in the main program, create
+objects of both subclasses and display the results of area() and
+perimeter() for each object.
+
+● Task - 3: Abstraction
+a. What will be the outcome if we try to create an object of
+abstract class? Demonstrate with code.
+b. Demonstrate with an example code what will happen if we do
+not implement abstract methods in child class.
+c. Create an abstract class Shape with an abstract method named
+perimeter. Create a subclass named Square that inherits the
+
+abstract method and use it to calculate the perimeter of the
+square.
+d. Create an interface with two abstract methods perimeter and
+area, create a subclass inheriting that interface and use it to
+calculate area and perimeter of circle and rectangle.
+
+● Task - 4: overload the * operator to perform different
+multiplication
+The same method should handle (scaler multiplication ⇒ (x, y) *
+number), element wise multiplication((x1*x2 , y1* y2) and dot
+products(x1*y1 + x2y2)
