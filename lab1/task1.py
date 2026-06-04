@@ -6,3 +6,4 @@ class student:
 student1=student("Saurav",20)
 print(student1.name)
 print(student1.age)
+

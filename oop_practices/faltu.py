@@ -1,8 +1,6 @@
-generate a code to explain how different inherentance types work in Python.
 # Inheritance is a fundamental concept in object-oriented programming that allows a new class (called a child or subclass) to inherit attributes and methods from an existing class (called a parent or superclass). In Python, there are several types of inheritance:
 # 1. Single Inheritance: A child class inherits from a single parent class.
 # 2. Multiple Inheritance: A child class inherits from more than one parent class.          
-
 # 3. Multilevel Inheritance: A child class inherits from a parent class, which in turn inherits from another parent class.
 # 4. Hierarchical Inheritance: Multiple child classes inherit from a single parent class.
 # 5. Hybrid Inheritance: A combination of two or more types of inheritance.
